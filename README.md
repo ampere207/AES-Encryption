@@ -19,7 +19,7 @@ This project consists of two Python scripts that demonstrate AES encryption and 
 ## Requirements
 
 - Python 3.x
-- pycryptodome library
+- Pycryptodome library
 
 ## Installation
 
